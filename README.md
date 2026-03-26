@@ -1,7 +1,7 @@
 <p align=center>
 <img src="https://github.com/captvernadead/captvernadead/blob/a6ce03f431babd60743701cc5052fe5e659fa1d2/captain%20again.webp" width=400 height=650>
 <p align=center>
-  <img src"">
+  <img src="https://github.com/captvernadead/captvernadead/blob/349a3a022b5bb6b78afbbae39163ce2e3268de4a/bullet%20hole%20divider.gif">
 <p align=center>
 ${\color{#302E29} bernadotte \space or \space matthew {}}$
 <p align=center>
