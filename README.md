@@ -12,7 +12,7 @@ ${\color{#302E29} he / she / neos {}}$
   </div>
 
 <p align = center>
-<img src="">
+<img src="https://github.com/captvernadead/captvernadead/blob/11c6714362e1c8b11b23a52f2dc874a650eb5fe7/pip%20stamp%201.webp"> <img src=""> <img src="">
 <p align=center
   
 [main](https://github.com/shotgunnur)
