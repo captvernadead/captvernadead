@@ -8,7 +8,7 @@ ${\color{#302E29} he / she / neos {}}$
 
 <div align = "center">
   
-  ![](https://komarev.com/ghpvc/?username=captvernadead&style=plastic&color=302E29&label=++mangy+dogs++)
+  ![](https://komarev.com/ghpvc/?username=captvernadead&style=plastic&color=302E29&label=+++wild+geese+++)
   </div>
 
 <p align=center
