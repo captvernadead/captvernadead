@@ -3,8 +3,9 @@
 <p align=center>
   <img src="https://github.com/captvernadead/captvernadead/blob/349a3a022b5bb6b78afbbae39163ce2e3268de4a/bullet%20hole%20divider.gif">
 <p align=center>
-${\color{#302E29} bernadotte \space or \space matthew {}}$
+${\color{#59554c} bernadotte \space or \space matthew {}}$
 
+  
 <div align = "center">
   
   ![](https://komarev.com/ghpvc/?username=captvernadead&style=plastic&color=302E29&label=+++wild+geese+++)
