@@ -11,6 +11,8 @@ ${\color{#302E29} he / she / neos {}}$
   ![](https://komarev.com/ghpvc/?username=captvernadead&style=plastic&color=302E29&label=+++wild+geese+++)
   </div>
 
+<p align = center>
+<img src="">
 <p align=center
   
 [main](https://github.com/shotgunnur)
