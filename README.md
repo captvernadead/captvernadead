@@ -4,8 +4,6 @@
   <img src="https://github.com/captvernadead/captvernadead/blob/349a3a022b5bb6b78afbbae39163ce2e3268de4a/bullet%20hole%20divider.gif">
 <p align=center>
 ${\color{#302E29} bernadotte \space or \space matthew {}}$
-<p align=center>
-${\color{#302E29} he / she / neos {}}$
 
 <div align = "center">
   
