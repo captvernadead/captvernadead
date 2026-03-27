@@ -3,7 +3,7 @@
 <p align=center>
   <img src="https://github.com/captvernadead/captvernadead/blob/349a3a022b5bb6b78afbbae39163ce2e3268de4a/bullet%20hole%20divider.gif">
 <p align=center>
-${\color{#59554c} bernadotte \space or \space matthew {}}$
+${\color{#59554c} bernadotte \space or \space matthew \space ♱ \space he \space she \space neos {}}$
 
   
 <div align = "center">
