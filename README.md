@@ -17,3 +17,9 @@ ${\color{#59554c} bernadotte \space or \space matthew \space ♱ \space he \spac
   
 <p align=center>
 <img src="https://github.com/captvernadead/captvernadead/blob/7dd73d7821d66f418d3396b7c5005124459d5167/bullet%20blinkie.webp">
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bgjt4lpjj75seup5dnsdohowk&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
